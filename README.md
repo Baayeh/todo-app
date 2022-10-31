@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Todo App 🧮
+# Todo App
  A simple todo app
 
 
